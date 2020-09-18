@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+    ;
+}
+
+ul {
+    list-style: none;
+}
+
+/*============dcrator===========*/
+
+.deractor {}
+
+.deractor h2 {
+    font-size: 30px;
+    color: #1D1F21;
+    margin-top: 20px;
+}
+
+.deractor p {
+    font-size: 12px;
+    margin-top: -12px;
+}
+
+/*.============contuct===========*/
+
+.contuct {}
+
+.contuct ul li {}
+
+.contuct li i {
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+/*.============address===========*/
+
+.address{
+        margin-top: 85px;
+}
+.address a{
+    color: #1D1F21;
+}
+.address a i{
+    padding-bottom: 25px;
+    padding-right: 25px;
+}
+.address a:hover{}
+.address .street i{
+     padding-bottom: 25px;
+    padding-right: 25px;
+}
+.address .street .block p{
+    color:#1D1F21;
+    text-transform: capitalize;
+}
+
+/*.============footer===========*/
+.foot{}
+.foot ul{
+    display: flex;
+}
+.foot ul li{
+    font-size: 30px;
+    display: flex;
+    flex-grow: 1;
+    text-transform: capitalize;
+    color: #4891A1;
+    font-weight: 700;
+}
+.foot ul li span{
+    margin-left: 40px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

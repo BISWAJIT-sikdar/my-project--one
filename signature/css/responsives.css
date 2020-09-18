@@ -1,0 +1,175 @@
+
+@media (max-width:991px) {
+
+
+     .logo-img img {
+        width: 100%;
+    }
+
+
+    .foot ul li {
+        font-size: 19px;
+        line-height: 35px;
+        flex-grow: 1;
+
+    }
+
+
+
+
+
+=============================================
+
+
+@media (max-width:768px) {
+
+
+     .logo-img img {
+        width: 314px;
+        height: 314px;
+
+    }
+
+    .deractor {
+        text-align: center;
+    }
+
+    .address {
+        margin-top: -12px;
+    }
+
+
+    .foot ul li {
+        font-size: 16px;
+        line-height: 35px;
+        flex-grow: 1;
+
+    }
+
+    .foot ul li span {
+
+    }
+    .contuct li i {
+    padding-bottom: 20px;
+    padding-right: 20px;
+        font-size: 14px;
+}
+    .address .street .block p{
+        font-size: 14px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+==========================================
+@media (max-width:576px) {
+
+    .deractor {
+        text-align: center;
+    }
+
+    .address {
+        margin-top: -12px;
+    }
+
+
+    .foot ul li {
+        font-size: 19px;
+        line-height: 35px;
+        flex-grow: 1;
+
+    }
+
+    .foot ul li span {
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*=====================================================*/
+@media (max-width:420px) {
+
+    .logo-img img {
+        width: 314px;
+        height: 314px;
+
+    }
+
+    .deractor {
+        text-align: center;
+    }
+
+    .address {
+        margin-top: -12px;
+    }
+
+
+    .foot ul li {
+        display: block;
+        font-size: 14px;
+
+    }
+
+    .foot ul li span {
+        display: none;
+    }
+
+
+}
+
+/*=================================================*/
+@media (max-width:320px) {
+
+    .logo-img img {
+        width: 200px;
+        height: 200px;
+
+    }
+
+    .deractor {
+        text-align: center;
+    }
+
+    .address {
+        margin-top: -12px;
+    }
+
+
+    .foot ul li {
+        display: block;
+        font-size: 14px;
+
+    }
+
+    .foot ul li span {
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
